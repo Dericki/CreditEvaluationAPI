@@ -1,10 +1,10 @@
 # Nome do Projeto
 
 ## Integrantes do Grupo
-Razyel Ferrari rm551875
-Rayzor Anael rm551832
-Derick Araújo rm551007
-Kalel Schlichting rm550620
+-Razyel Ferrari rm551875
+-Rayzor Anael rm551832
+-Derick Araújo rm551007
+-Kalel Schlichting rm550620
 
 ## Arquitetura
 A API segue uma arquitetura *monolítica* por ser mais adequada para o escopo deste projeto. Essa escolha simplifica a implementação e facilita a manutenção.
